@@ -3,7 +3,7 @@ title: 'xUnit - List of Assertions'
 date: 2020-05-03T22:24:44+03:00
 author: 'codevicory'
 description: 'List of assertion functions available in xUnit.'
-draft: true
+draft: false
 ---
 
 |  Name                | Description                                                                                                                                         |
