@@ -1,9 +1,9 @@
 ---
-title: 'On xUnit, .NET Core and VS Code'
+title: 'Basics of xUnit with .NET Core and VS Code'
 date: 2020-05-06T19:48:30+03:00
 author: 'codevicory'
 description: 'How to get started with xUnit, .NET Core and VS Code.'
-draft: true
+draft: false
 ---
 
 ## VS Code Extension
@@ -25,7 +25,7 @@ You need this to enable intellisense for xUnit library. GUI plugin in VS Code si
 
 ---
 
-`dotnet-cli` will create references to `Microsoft.NET.Test.Sdk` and `coverlet.collector` but I didn't find any use for them.
+`dotnet new xunit` will create references to `Microsoft.NET.Test.Sdk` and `coverlet.collector` but I didn't find any use for them.
 
 ---
 
