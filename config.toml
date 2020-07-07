@@ -20,7 +20,7 @@ paginate = 5
   [languages.en]
     title = "codevictory"
     subtitle = "Code. Simply."
-    keywords = ""
+    keywords = "dotnet, xunit"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
