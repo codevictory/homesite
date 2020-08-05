@@ -1,13 +1,29 @@
 +++
 title = "About"
-date = 2020-05-03T22:24:44+03:00
+date = 2020-08-05T22:24:44+03:00
 +++
 
 # Location
 
 ## Naantali, Finland
 
-# Workstation
+# Workstation history
+
+## 2020-
+
+| Key      | Value                         |
+| -------- | ----------------------------- |
+| OS       | Manjaro Linux x86_64          |
+| Host     | 20AWS55E00 ThinkPad T440p     |
+| Kernel   | 5.6.19-2-MANJARO              |
+| Shell    | zsh 5.8                       |
+| DE       | GNOME                         |
+| Terminal | alacritty                     |
+| CPU      | Intel i5-4300M (4) @ 3.300GHz |
+| GPU      | Intel 4th Gen Core Processor  |
+| Memory   | 7653MiB                       |
+
+## 2019-2020
 
 | Key      | Value                          |
 | -------- | ------------------------------ |
