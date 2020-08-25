@@ -1,12 +1,12 @@
 ---
 title: 'xUnit - List of Assertions'
 date: 2020-05-03T22:24:44+03:00
-author: 'codevicory'
+author: 'codevictory'
 description: 'List of assertion functions available in xUnit.'
 draft: false
 ---
 
-|  Name                | Description                                                                                                                                         |
+| Name                 | Description                                                                                                                                         |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | All                  | Verifies that all items in the collection pass when executed against action.                                                                        |
 | Collection           | Verifies that a collection contains exactly a given number of elements, which meet the criteria provided by the element inspectors.                 |

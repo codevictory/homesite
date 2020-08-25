@@ -1,7 +1,7 @@
 ---
 title: 'Basics of xUnit with .NET Core and VS Code'
 date: 2020-05-06T19:48:30+03:00
-author: 'codevicory'
+author: 'codevictory'
 description: 'How to get started with xUnit, .NET Core and VS Code.'
 draft: false
 ---

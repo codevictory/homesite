@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-author: "codevicory"
+author: "codevictory"
 description: ""
 draft: true
 ---

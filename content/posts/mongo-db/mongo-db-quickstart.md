@@ -1,7 +1,7 @@
 ---
 title: 'Mongo Db Quickstart'
 date: 2020-07-07T22:27:27+03:00
-author: 'codevicory'
+author: 'codevictory'
 description: 'Absolute minimal quickstart for using MongoDB.'
 draft: false
 ---
