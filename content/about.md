@@ -5,11 +5,11 @@ date = 2020-08-05T22:24:44+03:00
 
 # Location
 
-## Naantali, Finland
+Naantali, Finland
 
 # Workstation history
 
-## 2020-
+### 2020-
 
 | Key      | Value                         |
 | -------- | ----------------------------- |
@@ -23,7 +23,7 @@ date = 2020-08-05T22:24:44+03:00
 | GPU      | Intel 4th Gen Core Processor  |
 | Memory   | 7653MiB                       |
 
-## 2019-2020
+### 2019-2020
 
 | Key      | Value                          |
 | -------- | ------------------------------ |
