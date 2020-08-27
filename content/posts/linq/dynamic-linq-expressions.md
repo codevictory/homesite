@@ -1,9 +1,9 @@
-LINQ---
+---
 title: "Dynamic LINQ Expressions"
 date: 2020-08-25T18:15:40+03:00
 author: "codevictory"
 description: ""
-draft: true
+draft: false
 ---
 
 There is many situations when LINQ-expressions are not known during the build time. Luckily there is .NET standard library [System.Linq.Expressions](https://www.nuget.org/packages/System.Linq.Expressions/) available to satisfy just that need. Here's a quick look on how to create and use it effectively with C#.
